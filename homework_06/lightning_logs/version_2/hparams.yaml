@@ -1,0 +1,6 @@
+batch_size: 16
+learning_rate: 0.001
+input_size: 784
+hidden_size: 512
+num_classes: 10
+num_workers: 2

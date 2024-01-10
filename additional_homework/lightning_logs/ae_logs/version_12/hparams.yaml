@@ -1,0 +1,5 @@
+batch_size: 128
+input_size: 784
+latent_dim: 50
+learning_rate: 0.001
+num_epochs: 30
